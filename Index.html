@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Camaron Life Sciences</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Font Awesome for icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+  <style>
+    /* Navbar styles */
+    .navbar {
+      transition: background-color 0.3s ease;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+      background: rgba(255, 255, 255, 0.2); /* transparent shade */
+    }
+    .navbar.scrolled {
+      position: fixed;
+      background: #fff !important; /* solid white when scrolled */
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .navbar a { color: #000; font-weight: 500; }
+
+    /* Carousel images */
+    .carousel-item img {
+      height: 100vh; /* full screen height */
+      width: 100%;
+      object-fit: cover; /* crop uniformly */
+    }
+    
+    /* Highlight section */
+    .highlight { font-weight: bold; font-size: 1.5rem; color: #0077b6; }
+
+    /* Product images */
+    .product-img { width: 100%; height: 200px; object-fit: cover; }
+
+    /* Footer */
+    .footer-logo { font-size: 1.5rem; font-weight: bold; }
+    .social-icons a { margin-right: 10px; color: #0077b6; font-size: 1.2rem; }
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg px-4">
+  <a class="navbar-brand" href="#"><img src="./images/CamaronlifeSciences-Logo.jpg" alt="Logo" height="40"></a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Certifications</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">E-Brochure</a></li>
+      <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- Hero Carousel -->
+<div id="heroCarousel"
+     class="carousel slide"
+     data-bs-ride="carousel"
+     data-bs-interval="4000"
+     data-bs-pause="false"
+     data-bs-wrap="true"
+     data-bs-touch="true">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="./images/camaronPic-1.webp" alt="Company Image 1" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="./images/camaronpic-2.webp" alt="Company Image 2" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="company3.jpg" alt="Company Image 3" class="d-block w-100">
+    </div>
+  </div>
+
+  <!-- Optional: controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+<!-- About Section -->
+<div class="container py-5">
+  <h2 class="highlight text-center">Camaron Life Sciences</h2>
+  <p class="text-center">We specialize in sustainable aquaculture solutions, delivering high-quality products for healthier aquatic ecosystems.</p>
+</div>
+
+<!-- Products Section -->
+<div class="container py-5">
+  <h2 class="text-center">Our Products</h2>
+  <p class="text-center">Explore our range of aquaculture products designed to enhance water quality and fish health.</p>
+  <div class="row">
+    <div class="col-md-4">
+      <img src="product1.jpg" class="product-img" alt="Product 1">
+    </div>
+    <div class="col-md-4">
+      <img src="product2.jpg" class="product-img" alt="Product 2">
+    </div>
+    <div class="col-md-4">
+      <img src="product3.jpg" class="product-img" alt="Product 3">
+    </div>
+  </div>
+  <div class="text-center mt-3">
+    <a href="#" class="btn btn-primary">View All Products</a>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="bg-light py-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="footer-logo"><img src="./images/camaronLifeSciences-BottomLogo.jpg" alt="Logo" height="150"></div>
+      </div>
+      <div class="col-md-4">
+        <h5>Quick Links</h5>
+        <ul class="list-unstyled">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Products</a></li>
+          <li><a href="#">Certifications</a></li>
+          <li><a href="#">E-Brochure</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <h5>Office Info</h5>
+        <p>Email: info@camaronlifesciences.com</p>
+        <p>Phone: +91-9876543210</p>
+        <div class="social-icons mt-2">
+          <a href="#"><i class="fab fa-facebook"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-whatsapp"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+  // Force autoplay and never pause on hover
+  const heroCarouselEl = document.getElementById('heroCarousel');
+  const heroCarousel = new bootstrap.Carousel(heroCarouselEl, {
+    interval: 3000,   // 4s per slide
+    ride: 'carousel', // start automatically
+    pause: false,     // don't pause on hover
+    touch: true,      // allow swipe on touch devices
+    wrap: true        // loop back to start
+  });
+</script>
+<script>
+  // Navbar scroll effect
+  window.addEventListener('scroll', function() {
+    const navbar = document.querySelector('.navbar');
+    if (window.scrollY > 50) {
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  });
+</script>
+</body>
+</html>
