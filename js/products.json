@@ -1,0 +1,622 @@
+{
+  "products": [
+    {
+      "id": "scaven-prob",
+      "name": "Scaven Prob",
+      "image": "products/Saven Prob.jpg",
+      "tagline": "Bioscanvenger SOIL probiotic",
+      "benefits": [
+        "For Water",
+        "Decompose the organic waste, include animal manue",
+        "Remove Nitrate",
+        "Adjust PH Value",
+        "Remove algae",
+        "No-Side effects",
+        "Removing NH-3 N (Ammonia nitrogen)",
+        "Promote the pond water in Natural balance",
+        "Remove toxics and the harmful gas caused by ammonia nitrogen, nitrite, hydrogen sulfide, methane and etc",
+        "Increases DO (dissolvaing oxygen)"
+      ],
+      "main_ingredients": [
+        "Bacillus subtilis, Rhodopseudomonas palustris,",
+        "thiobacillus, nitrifying bacteria, denitrifying bacteria,",
+        "and etc., a dozen kinds of beneficial living bacteria.",
+        "Viable count is 10~10 CFU/g.",
+        "20 billion per m l"
+      ],
+      "dosage": "500ml per acer",
+      "presentation": "1Lt.",
+      "additional_info": "Multistrains of eco-friendly, Bio-Degradable Probiotic Bacterial Species"
+    },
+
+    {
+      "id": "campro",
+      "name": "CAMPRO",
+      "image": "products/campro.jpg",
+      "tagline": "Soil & Water Problotic",
+      "composition": [
+        "Spore form eco- friendly Bacterial strains of Bacillus subtilis, Bacillus megaterium, Bacillus polymyxa,",
+        "Bacillus licheniformis, Bacillus coagulans. Each gram Campro contains 20 billion spore forming units."
+      ],
+      "benefits": [
+        "CAMPRO degrades organic matter.",
+        "CAMPRO converts Ammonia & H,S into Non toxic elements.",
+        "CAMPRO Improves DO Levels.",
+        "CAMPRO Optimises Water Quality Parameters."
+      ],
+      "dosage": "250 gm per acre",
+      "method_of_application": [
+        "Dissolve 50gm of Campro & 100gm of Jaggery in 50Ltr. of water and then add 250gm of Campro, brew it for 48hrs. then apply throughout the pond during morning hours."
+      ],
+      "presentation": "500g."
+    },
+
+    {
+      "id": "proven-tab",
+      "name": "PROVEN-Tab",
+      "image": "products/proven-tab.jpg",
+      "tagline": "High strength multistrain probiotics with enzymes in tablet form",
+      "composition": [
+        "Bacillus magaterium (2.5 Billion), Bacillus polymyxa (2.5B), Billus pumilus (2.5B), Bacillus Claussil (2.5B), Paracoccus margi natus (0.5B), Paracoccus pantotropus (2B), Streptococcus thermophillus (2.58), Bacillus amyloliquefaciens (1B), Bacillus mesentricus (0.5B), Enterococcus facium (2.5B), Lactobacillus rhamnosus (2B), Lactobacillus sporogenes (1B), Pediococcus Acidilactici (0.5B), Mannan Oligo Saccharide (MOS) Beta Glucons, B1-3, B1-4, B1-6, Alpha-Amylase (250 IU), Lipase (250 IU), N protease (10000 IU), Phytase (200 IU), Xylanase (2000 IU), Maltodextrin (Malto), Starch Powder."
+      ],
+      "benefits": [
+        "Highly prevents the Vibrio bacteria loads in Pond water.",
+        "Controls the running mortality in Shrimp.",
+        "Helps to maintain the microbial balance in the Shrimp intestine.",
+        "Inhibit the multipication of Vibrio Spp were presented.",
+        "Increases the immune system and improves the FCR."
+      ],
+      "dosage_application": [
+        "Pond Application : 200 to 250 gm per acre",
+        "For feed: 5 tablets for kg feed, dissolve in 100ml water then apply to feed"
+      ],
+      "presentation": "500g."
+    },
+    {
+      "id": "catamin",
+      "name": "CATAMIN",
+      "image": "products/catamin.jpg",
+      "dosage": [
+        "Fish : 5-10 k g per acre.",
+        "Shrimp: 10kg per acre"
+      ],
+      "description": "Complete Mineral Solution For Vannamei",
+      "details": [
+        "Mineral Composition of L.Vannamei culture water plays an important role, not only on the growth and survival of shrimp but also for stability of the aquaculture pond. Deficiency of mineral ions in the aquaculture system causes imbalance of the osmoregulatory function in shrimp and low availability of natural food in the pond.",
+        "CATAMIN contains multiminerals to keep water properties within the safe level for growing shrimp.",
+        "CATAMIN is a concentrated form of Micro & Macro Minerals scientifically designed for L. Vannamei.",
+        "CATAMIN is an effective solution for mineral imbalance in high density L. Vannamei culture ponds.",
+        "CATAMIN regulates the exchange of water and solutes within the shrimp body thus maintains osmotic pressure, acid base equilibrium & pH of the shrimp body.",
+        "CATAMIN promotes formation of hard and soft tissue matrix & strengthens muscular control."
+      ],
+      "indications": [
+        "It contains sufficient Micro & Macro minerals to substitute mineral deficiency in the pond soil.",
+        "Balances osmoregulatory mechanism.",
+        "It supports development of good plankton in pond water.",
+        "It improves water quality."
+      ],
+      "composition": [
+        "Manganese - 5.0%",
+        "Zinc - 7.5%",
+        "Selenium - 0.02%",
+        "Magnesium - 7.5%",
+        "Cobalt - 0.02%",
+        "Potassium - 7.5%",
+        "Sodium - 2.5%",
+        "Iron - 5.0%",
+        "Copper - 0.5%",
+        "Phosphorus - 13%",
+        "Calcium - 16%"
+      ],
+      "presentation": "10kg."
+    },
+
+    {
+      "id": "electromin",
+      "name": "ELECTROMIN",
+      "image": "products/electromin.jpg",
+      "tagline": "Regulates Osmotic Mechanism In VANNAMEI",
+      "composition": [
+        "Osmo Regulating Essential Amino Acids, Phospho lipids and Salts."
+      ],
+      "indications": [
+        "100% Bio Available and Water Soluble Essential Minerals.",
+        "Avoids osmotic stress in Vannamei.",
+        "Regulates the Osmotic mechanism in shrimp.",
+        "Key components in extra and intra cellular activity.",
+        "Serves as cofactors in number of enzymetic reactions.",
+        "Important roll in metabolism of lipids, proteins and carbohydrates.",
+        "Improves growth and survival of shrimp."
+      ],
+      "dosage_application": [
+        "5 kg per acre. @ 15days interval",
+        "Mix well with water and apply throughout the pond."
+      ],
+      "presentation": "10kg."
+    },
+
+    {
+      "id": "nanomin",
+      "name": "Nanomin",
+      "image": "products/nanomin.jpg",
+      "tagline": "Instant Bio Available LIQUID MINERALS",
+      "benefits": [
+        "To help the pre-moulting of the shrimp and avoid the loose shell problem.",
+        "Improves primary production and enhances the development of phytoplankton.",
+        "Improves growth, moulting and survival rate of shrimps.",
+        "Maintain the optimal mineral profile in the water, soil and shrimp.",
+        "Balance the minerals deficiency.",
+        "Immediate relief from muscle crampt and white muscle symptom."
+      ],
+      "composition": [
+        "Nanomin Contains a unique proprietary blend of fat & water soluble Vitamins, Macro, Micro Minerals & Amino Acids."
+      ],
+      "dosage_application": [
+        "During pond preparation: 5-10Lt./acre.",
+        "During culture : 2-3Lt. /acre. once in every 10 days",
+        "For Use in feed: 10-20ml. / Kg feed."
+      ]
+    },
+
+    {
+      "id": "viron",
+      "name": "VIRON",
+      "image": "products/viron.jpg",
+      "tagline": "EFFECTLY WORKS ON CRUSTACEANS VIRUSES",
+      "composition": [
+        "Combination of 100% Natural antiviral nutrient herbs."
+      ],
+      "benefits": [
+        "Contains synergetic active 100% natural antiviral herbs.",
+        "Protects from viral disease transmission.",
+        "Excellent static activity on shrimp viruses.",
+        "Restricts the proliferation of virons in shrimp tissue.",
+        "Revives shrimp health.",
+        "Improves feed intake."
+      ],
+      "dosage_application": [
+        "100g per 10kg feed",
+        "(10g/ 1kg feed) for 10 to 15 days.",
+        "Application: Take 100g Viron in 1500ml (1.5L) Boiled water, mix well and keep it for 15 to 30min., then filter the liquid. The filtrant liquid mix well to the 10kg of feed."
+      ],
+      "category": "SHRIMP"
+    },
+    {
+      "id": "asta-bile",
+      "name": "ASTA BILE",
+      "image": "products/asta.jpg",
+      "tagline": "IMPROVES Metabolism",
+      "composition": [
+        "Each 100g contains: Bacillus and Lactic acid Bacillus strains (20Billion/g): 10g; Bile acids: 500mg; Astaxanthin: 250mg; Amylase (5000u/g): 400mg;",
+        "Protease (50000u/g):1g; Lipase (50000u/g):750mg; Phytase (50000u/g):50mg; Vitamin A: 50,000iu; Vit. D3: 16,000iu; Vit. E: 1.6g; Vit. K: 400mg; Vit. C: 2.5g;",
+        "B1: 100mg;B2: 600mg; B6: 200mg; B12: 0.4mg; Ca. panthonate: 1g; Niacin: 1g; Biotin: 10mg; Folic acid: 36mg; Inositol: 1g: Lysine;5g; DL",
+        "Methionine: 2.5g; Threonine: 1g; Glycine: 500mg; Soluble proteins: 10g; (Casein & Amino Protein)Betain. HCI: 500 mg; cobalt: 2mg; Copper Glycinate:",
+        "125mg; ferrous Glycinate: 1.5g; Magnesium Glycinate: 3.5g; Manganese Glycinate: 325mg; Potassium iodide: 33mg; Sodium selenate: 5mg; Zinc Glycinate:",
+        "3.5g; Di-sodium Phosphate: 10g; Potassium Chloride: 2.5g; Calcium Phosphate (Mono and Di Basic): 30g; Carrier (Malto Dextrin and starch): Q.S."
+      ],
+      "benefits": [
+        "Contains High-Concentration of suitable bene-ficial gut probiotic strains fortified with bile acids and essential nutrients.",
+        "Improves Hepatopancreas (HP) and Gut Health.",
+        "Protects the damage of hepatic cells and strengthens the gut villi.",
+        "Avoids fatty liver and apoptosis syndrome.",
+        "Increases dietary metabolic energy utilisation from lipids.",
+        "Enhances protein and lipid digestion capacity.",
+        "Improves feed intake and growth rate.",
+        "Protects from diseases and improves shrimp immunity."
+      ],
+      "dosage": "5-10gm. per kg feed mix with Fedox Gel"
+    },
+
+    {
+      "id": "entract",
+      "name": "ENTRACT",
+      "image": "products/entract.jpg",
+      "tagline": "Unique Natural Solution for EHP",
+      "description": "ADVANCED & INNOVATIVE PRODUCT",
+      "composition": [
+        "Each 100g contains: Herbal extract complex mix (Eclipta alba, Picrorhizakurea, Andrographis, Phyllanthus, Punica, Aristolochea: 35g;",
+        "Probiotic mix (Lactobacillus rhamnosus, Lactobacillus casei, and Saccharomyces boulardii, 100b/g): 2.5g;",
+        "Organic acid buffer salts mix: 35g; Vitamin A: 50,000 IU; Vit. D3: 16,000 IU; Vit. E: 1.6g; Vit. K: 400mg;",
+        "Bile acid salt: 5g; Lysine: 2.5g; DL Methionine: 2 g; Threonine: 500mg; Glycine: 1g; Soluble proteins: 5g; (Casein & Amino Protein), Betain. HCI: 2.5 g;",
+        "Excipients (Soluble Starch: Q.S."
+      ],
+      "indications": [
+        "Most effective on enterocytozoans in shrimp.",
+        "Entract shows instant action.",
+        "Protects from white muscle syndrome.",
+        "Very easy to application.",
+        "Stimulates shrimp growth",
+        "Improves feed intake."
+      ],
+      "dosage_application": [
+        "Feed Application: 50grams per ton Biomass for 5 to 7 Days.",
+        "Dissolve dosage Qty. of Entract in water and apply to the feed."
+      ]
+    },
+
+    {
+      "id": "fcrpower",
+      "name": "FCRPOWER",
+      "image": "products/Fcr power.jpg",
+      "category": "SHRIMP IMMUNITY",
+      "composition": [
+        "Each 100g contains: Vitamin A: 50,000 IU; Vit. D3: 16,000 IU; Vit. E: 1.6g; Vit. K: 400mg; Vit. C: 2.5g; B1: 100mg;",
+        "B2: 600mg; B6: 200mg:B12: 0.4mg; Ca.panthonate:1g; Niacin: 1g; Biotin: 10mg; Folic acid: 36mg; Inositol: 1g; Lysine:5g; DL",
+        "Methionine: 2.5g; Threonine: 1g; Glycine: 500mg; Soluble proteins: 10g; (Casein & Amino Protein) Betain. HCI: 500 mg; cobalt:",
+        "2mg; Copper Glycinate: 125mg; Ferrous Glycinate: 1.5g; Magnesium Glycinate: 3.5g; Manganese Glycinate: 325mg; Potassium",
+        "iodide: 33mg; Sodium selenate: 5mg; Zinc Glycinate: 3.5g; Di- sodium Phosphate: 10g; Potassium Chloride: 2.5g; Calcium",
+        "Phosphate (Mono and Di Basic): 30g; Carrier (Malto -Dextrin and Starch): Q.S."
+      ],
+      "benefits": [
+        "FCR Power has osmoprorective properties.",
+        "Protects Intestinal cells from microbial toxins.",
+        "Improves retention of all minerals in body.",
+        "Supports regeneration of damaged tissue.",
+        "Better cellular absorption of nutrients.",
+        "Strengthened non specific innate immunity",
+        "Improves feed intake and weight gain.",
+        "Protects from Osmotic Stress"
+      ],
+      "dosage_application": [
+        "4 gm per kg feed Mix with FCR Power and then apply to the feed."
+      ]
+    },
+
+    {
+      "id": "electrotyte",
+      "name": "ELECTROTYTE",
+      "image": "products/Electrotyte.jpg",
+      "composition": [
+        "Osmo Regulating Essential Amino Acids, Phospho lipids and Salts."
+      ],
+      "benefits": [
+        "100% Bio Available and essential nutrients for regulating Osmolitic mechanism of shrimp in low saline and borewell culture ponds.",
+        "Optimises extra and intra cellular activity of shrimp.",
+        "Enhances digestibility as well as absorbtion of feed nutrients.",
+        "Improves survival and growth rate of shrimp."
+      ],
+      "dosage": "10gm. per 1 kg feed"
+    },
+    {
+      "id": "snail-free",
+      "name": "SNAIL FREE",
+      "image": "products/snail-free.jpg",
+      "tagline": "Effectively controls all variety SNAILS & SLUGS",
+      "composition": [
+        "Organic Natural Extracts from :",
+        "Maduca longifolia - 35%",
+        "Derris Elliptica - 30%",
+        "Excipients - Q.S."
+      ],
+      "benefits": [
+        "Highly effective on all variety species of snails and slugs.",
+        "Effectively controls all types snails in shrimp pond.",
+        "Very safe to crustacean spp. (shrimp) and no residual effect.",
+        "Very easy for application."
+      ],
+      "dosage": "750-1kg / acre at 1 feet water depth.",
+      "warning": "DONT USE IN FISHCULTURE PONDS"
+    },
+
+    {
+      "id": "regen-gel",
+      "name": "Regen gel",
+      "image": "products/Regen gel.jpg",
+      "tagline": "Unique Solution For White Gut",
+      "composition": [
+        "Buffered organic acids",
+        "Natural Hepatoprotectants",
+        "Soluble proteins",
+        "Vitamins",
+        "Osmotic Salts",
+        "Enzymes"
+      ],
+      "indications": [
+        "Controls enteric pathogenic bacterial load in hapatopancreas (HP) and gut.",
+        "Protects damage of Hepatocytes.",
+        "Assists pH modulation in gut.",
+        "Helps to recover the damaged gut epithelium.",
+        "Effectevely controls white gut symptom",
+        "Regenerates Damaged connective tissue.",
+        "Improves gut absorption efficency.",
+        "Improves weight gain and FCR."
+      ],
+      "dosage_application": [
+        "Dissolve 10-20 gm of Regen-Gel in 25-50ml of Water and then apply to the 1kg of feed continue for 10-15 days"
+      ]
+    },
+
+    {
+      "id": "stab-c",
+      "name": "STAB-C",
+      "image": "products/Stabc.jpg",
+      "tagline": "coated vitamin",
+      "composition": [
+        "Ascorbyl Polyphosphate with attractants and carriers."
+      ],
+      "benefits": [
+        "Helps in the formation of collagen.",
+        "Helps in developing resistance to combat diseases.",
+        "Prevents formation of soft shell and black death.",
+        "Ensures optimal FCR.",
+        "Helps in proper moulting."
+      ],
+      "dosage": [
+        "Normal condition: 5g/ Kg of feed.",
+        "Under stress condition: 10g / Kg of feed."
+      ],
+      "presentation": "500g. & 1kg."
+    },
+
+    {
+      "id": "amonite",
+      "name": "AMONITE",
+      "image": "products/ammonit.jpg",
+      "tagline": "CONTROLS TOXIC GASES",
+      "composition": [
+        "Yucca schidigera extract"
+      ],
+      "benefits": [
+        "Contains Natural Steroidal Glyco component Herbal Extracts (spray dried Yucca schidigera)",
+        "Adsorbs Noxious Gases like Ammonia & H,S in Culture Ponds",
+        "Improves Plankton Blooms",
+        "Maintains Optimum D.O. Levels",
+        "Optimises Water Quality Parameters for better growth"
+      ],
+      "dosage_application": [
+        "250-500 gm per Acre.",
+        "Mix with Zeoran Zeolite and then apply through out the pond"
+      ],
+      "presentation": "500g."
+    },
+    {
+      "id": "sporo-nill",
+      "name": "SPORO NILL",
+      "image": "products/Sporonill.jpg",
+      "tagline": "Innovative Pre Stocking Pond Preparation Prevents Horizontal Transmission of EHP Broad Spectrum Activity Most Effective Soil Treatment SPORO NULL",
+      "composition": [
+        "Sporonill is unique combination of freely water soluble butyrated components."
+      ],
+      "indications": [
+        "Most effective on enterocytozoons of eco-system.",
+        "Avoids horizontal transmission of EHP",
+        "Exhibits instant action.",
+        "Protects from shrimp stunted growth.",
+        "Very easy to application.",
+        "Longer residual activity.",
+        "Maintains healthy pond environment."
+      ],
+      "dosage_application": [
+        "10-15 kg per Hectare. Sporonill to be dissolved in water and applied throughout the pond during pre stocking when the water level is of 1 feet depth. The rest of the water to be pumped in the pond after 12-18 hrs. of Sporonill application."
+      ],
+      "presentation": "5kg & 10kg."
+    },
+
+    {
+      "id": "vibsan",
+      "name": "Vibsan",
+      "image": "products/Vibsan.jpg",
+      "tagline": "POWERFUL WATER SANITIZER",
+      "composition": [
+        "Combination of dodecyl dimethyl ammonium bromide, silver ions, glutaraldehyde and suitable catalysts."
+      ],
+      "benefits": [
+        "Shows rapid & synergetic action on pathogenic bacteria, fungai and protozoa.",
+        "Effectively controls gill associated infections.",
+        "Has high residual activity.",
+        "Stimulates moulting in shrimp.",
+        "User Friendly & Farm Friendly."
+      ],
+      "dosage": "500-750ml per Acre./ 4000 sq.mtrs.",
+      "application": "Dilute with water and apply throughout the pond.",
+      "presentation": "1Lt."
+    },
+
+    {
+      "id": "zeoran",
+      "name": "ZEORAN",
+      "image": "products/Zeoran powder 25kg.jpg",
+      "tagline": "Geolites & Oxidisers to Improve DO",
+      "indications": [
+        "Removes toxic gases like ammonia & H,S from pond bottom.",
+        "Improves water quality.",
+        "Increases DO Levels.",
+        "Stabilizes physico - chemical parameters of pond water.",
+        "Provides optimum favourable conditons to shrimp and fish growth."
+      ],
+      "additional_info": "Oxdisers Natural Toxic Gas Binders - .",
+      "dosage": [
+        "10 to 20 kg during culture or 20 to 50kg per acre during pond prepration as suggested by consultant."
+      ]
+    },
+
+    {
+      "id": "camoxy",
+      "name": "Camoxy",
+      "image": "products/camoxy.jpg",
+      "tagline": "Instant Oxygen for Aquaculture",
+      "composition": [
+        "Sodium percarbonate 99%"
+      ],
+      "indications": [
+        "It releases oxygen quickly and maintained Optimum D.O. level long period in pond water.",
+        "It gives immediate relief from D.O. Problem.",
+        "It Provides favourable conditions to shrimp & Fish.",
+        "It eleminates toxic unwanted gases in culture ponds."
+      ],
+      "dosage": [
+        "Prawn : 500gms to 1kg acre at normal conditions.",
+        "2 to 3 kg per acre at severe conditions of DO Problems.",
+        "Fish: 250gms to 500gms per acre at normal conditions.",
+        "1 to 2kg per acre severe conditions of DO Problems."
+      ],
+      "presentation": "10kg."
+    },
+
+    {
+      "id": "zeoron-granules",
+      "name": "NATURAL ZEOLITE Zeoron GRANULES",
+      "image": "products/Zeoron-zeolite.jpg",
+      "benefits": [
+        "Removes toxic gases like ammonia & H,s",
+        "Improves water quality.",
+        "Increases DO Levels.",
+        "Stabilizes physico - chemical parameters of pond water",
+        "Provides optimum favourable conditons for shrimp growth."
+      ],
+      "composition": [
+        "Trace Elements-60ppm",
+        "Natural Toxic Gas Binders-Q.S."
+      ],
+      "dosage_application": [
+        "During pond prepration: 5 to 10kg per acre.",
+        "During culture: 10kg per acre. or as advised by aqua culture consultant."
+      ],
+      "presentation": "10kg."
+    },
+
+    {
+      "id": "noxi-ps",
+      "name": "NOXI-PS",
+      "image": "products/noxi-ps.jpg",
+      "tagline": "REMOVE TOXIC GASES",
+      "composition": [
+        "Rhodopseudomonas sppRhodobacter, Rhodococcus sppThiobacillus, Nitrobacter & Nitrasomonas spp,. Bacillus spp.",
+        "Strength 25×10° 10 cfu per ml",
+        "Broth nutrients with Adjuvant Q.S."
+      ],
+      "benefits": [
+        "Reduces level of toxic gasses such as ammonia nitrogen, nitrite and hydrogen sulfide to eliminate all kinds of odor in the sludge, while reducing the sludge amount.",
+        "Photosynthetic bacteria reduces the chemical and antibiotic usage as it prevents aquatic life from disease.",
+        "Photosynthetic bacteria decrease COD, SS (suspended substances) and BOD and improve water quality."
+      ],
+      "dosage": "5-10 Lt. per acer (or) As Advised by aqua culture consultant"
+    },
+    {
+      "id": "fedox-gel",
+      "name": "FEDOX GeL",
+      "image": "products/fedox-gel.jpg",
+      "composition": [
+        "Fedox gel enriched with :",
+        "Vitamins",
+        "Minerals",
+        "Amino acids (Lysine, Methionine, Threonine)",
+        "Soluble proteins",
+        "Malt extract",
+        "Choline chloride",
+        "Natural growth & Immuno stimulants"
+      ],
+      "benefits": [
+        "Fedox enhances immunity.",
+        "Fedox improves feed intake.",
+        "Fedox increases bio-availability of feed nutrients.",
+        "Fedox can be used regularly as general purpose gel.",
+        "Fedox can be used as top up gel for the application of any supplement through feed."
+      ],
+      "dosage": "20 - 25ml of Fedox per kg feed.",
+      "presentation": "5Lt. & 20Lt.",
+      "additional_info": "Pathogenic Vibrio in Shrimp"
+    },
+
+    {
+      "id": "vib-gel",
+      "name": "VIB GEL",
+      "image": "products/vib-gel.jpg",
+      "composition": [
+        "Natural High potential synergetic component extracts fortified with osmolytes and growth stimulants."
+      ],
+      "benefits": [
+        "Restricts proliferation of pathogenic vibrios in shrimp.",
+        "Protects from vibriosis infections.",
+        "Prevents transmission of Vibrio diseases.",
+        "Enhances feed digestion and activity of shrimp.",
+        "Improves gut absorption efficiency.",
+        "Shows better weight gain."
+      ],
+      "dosage": "20ml of Vib gel per kg feed.",
+      "presentation": "5Lt. & 20Lt."
+    },
+
+    {
+      "id": "stamin-gel",
+      "name": "StamiN Gel",
+      "image": "products/stamin-gel.jpg",
+      "tagline": "ENHANCES SHRIMP IMMUNITY",
+      "composition": [
+        "Each 100g contains: Vitamin A: 50,000IU; Vit. D3: 16,000IU; Vit. E: 1.6g; Vit. K: 400mg; Vit. C:2.5g; B1: 100mg;B2: 600mg; B6: 200mg; B12: 0.4mg; Ca. panthonate: 1g; Niacin: 1g; Biotin: 10mg; Folic acid: 36mg; Inositol: 1g; Glycated microminerals (complex mix): 1.5g; Lysine:500mg; DL Methionine: 250g; Threonine: 250mg; Glycine: 500mg; Soluble proteins: 2.5g; (Casein & Amino Protein), Betain. HCI: 100 mg; 1,3 B and 1,6 B Glucans: 150mg; Di- Sodium Phosphate: 2.5g; Potassium Chloride: 2.5g; Calcium gluconate: 1.5g; Methyl paraben sodium (MPS):50mg; Propyl paraben sodium (PPS):100mg; Bronopal: 150mg: Sodium Benzoate 200mg: Gel Base (Xanthan gum): 2.5g; Gelatin:500mg; Caramel: 100mg; Added Natural Flavor. Q.S.,"
+      ],
+      "benefits": [
+        "STAMIN enhances immunity.",
+        "STAMIN improves feed intake.",
+        "STAMIN increases bio-availability of feed nutrients.",
+        "STAMIN can be used regularly as general purpose gel.",
+        "STAMIN can be used as top up gel for the application of any medicine through feed."
+      ],
+      "dosage": "20 - 25ml of kg feed"
+    },
+
+    {
+      "id": "shell-fit",
+      "name": "Shell fit",
+      "image": "products/shell-fit.jpg",
+      "tagline": "Best Condition for Count HARVEST",
+      "composition": [
+        "Di sodium phosphate : 20g",
+        "Di potassium phosphate: 25g",
+        "Chitosan : 5 g",
+        "Calcium phosphate Monobasic: 50g"
+      ],
+      "indications": [
+        "High content and water soluble percent of calcium and phosphorus minerals.",
+        "Immediately dissociation in pond water.",
+        "Instant and effective obsorption rate at lower dose.",
+        "Shrimp become strong and fit for better count harvest.",
+        "Improves feed disgestibility for better growth.",
+        "Immediate relief from soft musle."
+      ],
+      "dosage_application": [
+        "For Feed Application : 5gm per kg feed : dissolve 5gm Shellfit in 100ml. water apply to 1kg feed.",
+        "Pond application for conditioning shrimp: 2 to 3kg per acre 12 before harvest take 2 to 3kg of Shellfit in 20L. Water mix well until dissolve and apply through out the pond at 12hr. before pond harvest."
+      ],
+      "presentation": "1kg. & 5Kg"
+    },
+
+    {
+      "id": "meca-soft",
+      "name": "MECA Soft",
+      "image": "products/meca-soft.jpg",
+      "composition": [
+        "Sodium Salt - 99%"
+      ],
+      "benefits": [
+        "Reduce hardness in water.",
+        "Useful for moulting.",
+        "Reduce Shell Problems."
+      ],
+      "dosage": "1 kg for acre",
+      "presentation": "1Kg."
+    },
+
+    {
+      "id": "catazyme",
+      "name": "CATAZYME",
+      "image": "products/catazyme.jpg",
+      "tagline": "Enhances shrimp metabolism",
+      "composition": [
+        "Protease, Lipase, Phytase, Amylase along with Vitamins, Amino Acids, Minerals fortified with organic Selenium."
+      ],
+      "benefits": [
+        "Enhances shrimp metabolism.",
+        "Improves digestibility of feed nutrients.",
+        "Increases feed intake.",
+        "Favours uniform shrimp growth rate.",
+        "Helps to achieve better FCR and yields."
+      ],
+      "dosage_application": [
+        "Dissolve 10gm of CataZyme in 100ml of water and apply to 1kg of feed then coat with Fedox Gel or as advised by aqua culture consultant."
+      ],
+      "presentation": "1kg."
+    }
+
+  ]
+}
