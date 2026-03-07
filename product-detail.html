@@ -33,7 +33,7 @@
 </nav>
 
 <!-- HERO -->
-<section class="product-hero">
+<section class="product-hero fade-in">
   <div class="container">
     <div class="row align-items-center">
 
@@ -52,7 +52,7 @@
 </section>
 
 <!-- DETAILS -->
-<section class="container py-5">
+<section class="container py-5 fade-in">
   <div id="dynamicSections"></div>
 </section>
 <footer>
@@ -81,7 +81,7 @@
           Vidyanagar, Baji Junction,<br>
           Gopalapatnam, Visakhapatnam,<br>
           A.P.-530027.<br>
-          Phone: +91-9876543214<br>
+          Phone: +91-9121292119<br>
           Email : camaronlifesciences@gmail.com<br>
           Website : camaronlifesciences.com
         </p>
@@ -97,5 +97,19 @@
   </div>
 </footer>
 <script src="js/product-detail.js"></script>
+<script>
+  // Intersection Observer for fade-in animations
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if(entry.isIntersecting){
+        entry.target.classList.add("show");
+      }
+    });
+  });
+
+  document.querySelectorAll(".fade-in").forEach(el => {
+    observer.observe(el);
+  });
+</script>
 </body>
 </html>

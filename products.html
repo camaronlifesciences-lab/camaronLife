@@ -33,8 +33,15 @@
 
 
 
-<section class="container py-5 mt-5">
+<section class="container py-5 mt-5 fade-in">
   <h2 class="text-center mb-4">Our Products</h2>
+
+  <!-- Category Filters -->
+  <div class="category-filter text-center mb-5">
+    <button class="btn btn-filter active" data-category="all">ALL PRODUCTS</button>
+    <button class="btn btn-filter" data-category="shrimp">SHRIMP</button>
+    <button class="btn btn-filter" data-category="fish">FISH</button>
+  </div>
 
   <div class="row g-4" id="productContainer">
     <!-- Products loaded from JS -->
@@ -67,7 +74,7 @@
           Vidyanagar, Baji Junction,<br>
           Gopalapatnam, Visakhapatnam,<br>
           A.P.-530027.<br>
-          Phone: +91-9876543214<br>
+          Phone: +91-9121292119<br>
           Email : camaronlifesciences@gmail.com<br>
           Website : camaronlifesciences.com
         </p>
@@ -93,6 +100,19 @@
     } else {
       navbar.classList.remove('scrolled');
     }
+  });
+
+  // Intersection Observer for fade-in animations
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if(entry.isIntersecting){
+        entry.target.classList.add("show");
+      }
+    });
+  });
+
+  document.querySelectorAll(".fade-in").forEach(el => {
+    observer.observe(el);
   });
 </script>
 

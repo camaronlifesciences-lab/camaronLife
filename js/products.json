@@ -1,8 +1,16 @@
 {
+  "categories": [
+    { "id": "all", "name": "ALL PRODUCTS" },
+    { "id": "shrimp", "name": "SHRIMP" },
+    { "id": "fish", "name": "FISH" },
+    { "id": "pond", "name": "POND HEALTH" },
+    { "id": "disease", "name": "DISEASES & OTHER PROBLEMS" }
+  ],
   "products": [
     {
       "id": "scaven-prob",
       "name": "Scaven Prob",
+      "category": "shrimp",
       "image": "products/Saven Prob.jpg",
       "tagline": "Bioscanvenger SOIL probiotic",
       "benefits": [
@@ -32,6 +40,7 @@
     {
       "id": "campro",
       "name": "CAMPRO",
+      "category": "shrimp",
       "image": "products/campro.jpg",
       "tagline": "Soil & Water Problotic",
       "composition": [
@@ -54,6 +63,7 @@
     {
       "id": "proven-tab",
       "name": "PROVEN-Tab",
+      "category": "shrimp",
       "image": "products/proven-tab.jpg",
       "tagline": "High strength multistrain probiotics with enzymes in tablet form",
       "composition": [
@@ -75,6 +85,7 @@
     {
       "id": "catamin",
       "name": "CATAMIN",
+      "category": "shrimp",
       "image": "products/catamin.jpg",
       "dosage": [
         "Fish : 5-10 k g per acre.",
@@ -114,6 +125,7 @@
     {
       "id": "electromin",
       "name": "ELECTROMIN",
+      "category": "shrimp",
       "image": "products/electromin.jpg",
       "tagline": "Regulates Osmotic Mechanism In VANNAMEI",
       "composition": [
@@ -138,6 +150,7 @@
     {
       "id": "nanomin",
       "name": "Nanomin",
+      "category": "shrimp",
       "image": "products/nanomin.jpg",
       "tagline": "Instant Bio Available LIQUID MINERALS",
       "benefits": [
@@ -161,6 +174,7 @@
     {
       "id": "viron",
       "name": "VIRON",
+      "category": "shrimp",
       "image": "products/viron.jpg",
       "tagline": "EFFECTLY WORKS ON CRUSTACEANS VIRUSES",
       "composition": [
@@ -178,12 +192,12 @@
         "100g per 10kg feed",
         "(10g/ 1kg feed) for 10 to 15 days.",
         "Application: Take 100g Viron in 1500ml (1.5L) Boiled water, mix well and keep it for 15 to 30min., then filter the liquid. The filtrant liquid mix well to the 10kg of feed."
-      ],
-      "category": "SHRIMP"
+      ]
     },
     {
       "id": "asta-bile",
       "name": "ASTA BILE",
+      "category": "shrimp",
       "image": "products/asta.jpg",
       "tagline": "IMPROVES Metabolism",
       "composition": [
@@ -210,6 +224,7 @@
     {
       "id": "entract",
       "name": "ENTRACT",
+      "category": "shrimp",
       "image": "products/entract.jpg",
       "tagline": "Unique Natural Solution for EHP",
       "description": "ADVANCED & INNOVATIVE PRODUCT",
@@ -237,8 +252,8 @@
     {
       "id": "fcrpower",
       "name": "FCRPOWER",
+      "category": "shrimp",
       "image": "products/Fcr power.jpg",
-      "category": "SHRIMP IMMUNITY",
       "composition": [
         "Each 100g contains: Vitamin A: 50,000 IU; Vit. D3: 16,000 IU; Vit. E: 1.6g; Vit. K: 400mg; Vit. C: 2.5g; B1: 100mg;",
         "B2: 600mg; B6: 200mg:B12: 0.4mg; Ca.panthonate:1g; Niacin: 1g; Biotin: 10mg; Folic acid: 36mg; Inositol: 1g; Lysine:5g; DL",
@@ -265,6 +280,7 @@
     {
       "id": "electrotyte",
       "name": "ELECTROTYTE",
+      "category": "shrimp",
       "image": "products/Electrotyte.jpg",
       "composition": [
         "Osmo Regulating Essential Amino Acids, Phospho lipids and Salts."
@@ -280,6 +296,7 @@
     {
       "id": "snail-free",
       "name": "SNAIL FREE",
+      "category": "shrimp",
       "image": "products/snail-free.jpg",
       "tagline": "Effectively controls all variety SNAILS & SLUGS",
       "composition": [
@@ -301,6 +318,7 @@
     {
       "id": "regen-gel",
       "name": "Regen gel",
+      "category": "shrimp",
       "image": "products/Regen gel.jpg",
       "tagline": "Unique Solution For White Gut",
       "composition": [
@@ -329,6 +347,7 @@
     {
       "id": "stab-c",
       "name": "STAB-C",
+      "category": "shrimp",
       "image": "products/Stabc.jpg",
       "tagline": "coated vitamin",
       "composition": [
@@ -351,6 +370,7 @@
     {
       "id": "amonite",
       "name": "AMONITE",
+      "category": "shrimp",
       "image": "products/ammonit.jpg",
       "tagline": "CONTROLS TOXIC GASES",
       "composition": [
@@ -372,7 +392,8 @@
     {
       "id": "sporo-nill",
       "name": "SPORO NILL",
-      "image": "products/Sporonill.jpg",
+      "category": "shrimp",
+      "image" :"products/Sporonill.jpg",
       "tagline": "Innovative Pre Stocking Pond Preparation Prevents Horizontal Transmission of EHP Broad Spectrum Activity Most Effective Soil Treatment SPORO NULL",
       "composition": [
         "Sporonill is unique combination of freely water soluble butyrated components."
@@ -395,6 +416,7 @@
     {
       "id": "vibsan",
       "name": "Vibsan",
+      "category": "shrimp",
       "image": "products/Vibsan.jpg",
       "tagline": "POWERFUL WATER SANITIZER",
       "composition": [
@@ -415,6 +437,7 @@
     {
       "id": "zeoran",
       "name": "ZEORAN",
+      "category": "shrimp",
       "image": "products/Zeoran powder 25kg.jpg",
       "tagline": "Geolites & Oxidisers to Improve DO",
       "indications": [
@@ -433,6 +456,7 @@
     {
       "id": "camoxy",
       "name": "Camoxy",
+      "category": "shrimp",
       "image": "products/camoxy.jpg",
       "tagline": "Instant Oxygen for Aquaculture",
       "composition": [
@@ -456,6 +480,7 @@
     {
       "id": "zeoron-granules",
       "name": "NATURAL ZEOLITE Zeoron GRANULES",
+      "category": "shrimp",
       "image": "products/Zeoron-zeolite.jpg",
       "benefits": [
         "Removes toxic gases like ammonia & H,s",
@@ -478,6 +503,7 @@
     {
       "id": "noxi-ps",
       "name": "NOXI-PS",
+      "category": "shrimp",
       "image": "products/noxi-ps.jpg",
       "tagline": "REMOVE TOXIC GASES",
       "composition": [
@@ -495,6 +521,7 @@
     {
       "id": "fedox-gel",
       "name": "FEDOX GeL",
+      "category": "shrimp",
       "image": "products/fedox-gel.jpg",
       "composition": [
         "Fedox gel enriched with :",
@@ -521,6 +548,7 @@
     {
       "id": "vib-gel",
       "name": "VIB GEL",
+      "category": "shrimp",
       "image": "products/vib-gel.jpg",
       "composition": [
         "Natural High potential synergetic component extracts fortified with osmolytes and growth stimulants."
@@ -540,6 +568,7 @@
     {
       "id": "stamin-gel",
       "name": "StamiN Gel",
+      "category": "shrimp",
       "image": "products/stamin-gel.jpg",
       "tagline": "ENHANCES SHRIMP IMMUNITY",
       "composition": [
@@ -558,6 +587,7 @@
     {
       "id": "shell-fit",
       "name": "Shell fit",
+      "category": "shrimp",
       "image": "products/shell-fit.jpg",
       "tagline": "Best Condition for Count HARVEST",
       "composition": [
@@ -584,6 +614,7 @@
     {
       "id": "meca-soft",
       "name": "MECA Soft",
+      "category": "shrimp",
       "image": "products/meca-soft.jpg",
       "composition": [
         "Sodium Salt - 99%"
@@ -600,6 +631,7 @@
     {
       "id": "catazyme",
       "name": "CATAZYME",
+      "category": "shrimp",
       "image": "products/catazyme.jpg",
       "tagline": "Enhances shrimp metabolism",
       "composition": [
@@ -616,6 +648,127 @@
         "Dissolve 10gm of CataZyme in 100ml of water and apply to 1kg of feed then coat with Fedox Gel or as advised by aqua culture consultant."
       ],
       "presentation": "1kg."
+    },
+     {
+      "id": "pisci-pro",
+      "name": "Pisci Pro",
+      "category": "fish",
+      "tagline": "SOIL & WATER PROBIOTIC",
+      "image": "products/pixci copy.jpg",
+      "description": "Multistrains of eco-friendly, Bio-Degradable Probiotic Bacterial Species",
+      "composition": [
+        "Spore form eco- friendly Bacterial strains of Bacillus subtilis, Bacillus megaterium, Bacillus polymyxa, Bacillus licheniformis, Bacillus coagulans.",
+        "Each gram Profish contains 6 billion spore forming units."
+      ],
+      "benefits": [
+        "Pisci Pro degrades organic matter.",
+        "Pisci Pro converts Ammonia & H,S into Non toxic elements.",
+        "Pisci Pro Improves DO Levels.",
+        "Pisci Pro Optimises Water Quality Parameters."
+      ],
+      "dosage": "2kg per acre at meter pond water depth."
+    },
+
+    {
+      "id": "f-min",
+      "name": "F :MIN",
+      "category": "fish",
+      "tagline": "Complete mineral supplement for Fish",
+      "image": "products/fmin copy.jpg",
+      "benefits": [
+        "It contains sufficient Micro & Macro minerals to substitute mineral deficiency in Fish.",
+        "Balances osmoregulatory mechanism.",
+        "It supports development of good plankton in pond water.",
+        "It improves water quality."
+      ],
+      "composition": [
+        "Each 5kg F-Min Contains :",
+        "Calcium (Ca) - 750g",
+        "Phosphorus (P) - 450g",
+        "Magnesium (Mg) - 120g",
+        "Potassium (K) - 300g",
+        "Sodium (Na) - 200g",
+        "Iron (Fe) - 60g",
+        "Zinc (Zn) - 30g",
+        "Manganese (Mn) - 13g",
+        "Copper (Cu) - 5.0g",
+        "Selenium (Se) - 700mg",
+        "Iodine (I) - 2.5g",
+        "Carrier Q.S"
+      ],
+      "dosage_application": [
+        "For feed application: 5kg F-Min per ton of feed.",
+        "For water Application: 5kg F-Min per Acre.",
+        "or as advised by aqua culture consultant."
+      ]
+    },
+
+    {
+      "id": "flucid",
+      "name": "FlUcid",
+      "category": "fish",
+      "tagline": "CONTROLS GILL FLUKES IN FISH",
+      "image": "products/flucid.jpg",
+      "composition": [
+        "Phyllanthus niruri",
+        "Eclipta prosteta",
+        "Andrgraphis pinaculeta",
+        "Punica granatum",
+        "Terminalis cebula"
+      ],
+      "benefits": [
+        "It effectively controls gill flukes like Dactylogyrus, Gyrodactylus & Paradactylogyrus in fish.",
+        "It improves feed in take & good FCR.",
+        "Avoids anemic conditions of fish due to gill flukes."
+      ],
+      "dosage": "250ml. per acre."
+    },
+
+    {
+      "id": "sanitex",
+      "name": "SAnitex",
+      "category": "fish",
+      "composition": [
+        "Dodecyl bromide, glutaralfehyde, Activents and stabilisers."
+      ],
+      "image": "products/sanitex.jpg",
+      "indications": [
+        "Protects from bacterial, fungal and protozoan diseases.",
+        "Controls effectively gill associated diseases and external red patches.",
+        "Improves water quality.",
+        "Improves fish health."
+      ],
+      "effective_against": [
+        "Furunculosis",
+        "Columnaris",
+        "Dropsy",
+        "Vibriosis",
+        "Tuberculosis",
+        "Bacterial gill disease",
+        "Fin rot /tail rot"
+      ],
+      "dosage": "1Lt. per Acre.",
+      "presentation": "1Lt."
+    },
+
+    {
+      "id": "lice-off",
+      "name": "LICE OFF",
+      "category": "fish",
+      "tagline": "Controls fish ECTOPARASITES",
+      "image": "products/Liceoff.jpg",
+      "composition": [
+        "Lice off is unique combination of fish lice growth regulating natural herbal components."
+      ],
+      "benefits": [
+        "Lice off has rapid action and longer residual activity on parasites.",
+        "It blocks larval metamorphosis in Lice.",
+        "Lice off effectively works on all larval stages & adult stage of parasites.",
+        "Lice off is completely safe to the fish.",
+        "It stimulates fish growth.",
+        "It improves feed intake and health condition of fish."
+      ],
+      "dosage": "200-300ml. per acre."
     }
 
   ]
