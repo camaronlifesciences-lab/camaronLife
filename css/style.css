@@ -414,9 +414,17 @@ margin-bottom:15px;
 .social-icons a{
 display:inline-block;
 margin-right:12px;
-font-size:18px;
 color:white;
 transition:var(--transition);
+}
+
+.mt-3{
+margin-top:1rem !important;
+font-size: 25px;
+}
+
+.fab{
+  padding-right: 8px;
 }
 
 .social-icons a:hover{
