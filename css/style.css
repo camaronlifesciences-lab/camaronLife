@@ -458,6 +458,20 @@ height:300px;
 
 @media(max-width:768px){
 
+body.home{
+padding-top:90px;
+}
+
+.hero-image-section{
+height:auto;
+min-height:70vh;
+margin-top:0;
+}
+
+.hero-overlay{
+height:120px;
+}
+
 .hero-title{
 font-size:30px;
 }
